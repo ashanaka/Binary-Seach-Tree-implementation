@@ -28,7 +28,7 @@ int main(){
     insertData(4);
     postOrder(root);
     printf("\n");
-    deleteNode(50);
+    deleteNode(5);
     postOrder(root);
     printf("\n");
 
